@@ -68,3 +68,9 @@ node .\imageComparator-resemble.js
 ```
 
 ## 🧪 Example Output
+
+![](https://github.com/PriyankaPoojari/nodejs-ImageComparator/blob/master/output.png)
+
+Diff image:
+
+![](https://github.com/PriyankaPoojari/nodejs-ImageComparator/blob/master/diff-resemble.png)

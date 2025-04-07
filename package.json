@@ -1,0 +1,17 @@
+{
+    "name": "image-comparator",
+    "version": "1.0.0",
+    "description": "A Node.js tool to compare two images using pixelmatch and resemblejs",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "canvas": "^3.1.0",
+        "pixelmatch": "^5.3.0",
+        "pngjs": "^7.0.0",
+        "resemblejs": "^5.0.0"
+    },
+    "author": "Priyanka Poojari",
+    "license": "MIT"
+}
